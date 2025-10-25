@@ -1,6 +1,9 @@
 const root = document.getElementById('root')
 
 root.innerHTML = `
-    <h1>IAS KI TAYYARI CHHOD DO</h1>
+    <div class="container">
+        <h1>Namaskar, Dosto!</h1>
+        <p>Aapka swagat hai hamare website par.</p>
+    </div>
     `
 

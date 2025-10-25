@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: rgb(247, 247, 247);
+    color: rgb(2,4,7);
+
+}
+.container{
+    text-align: center;
+    margin-top: 20%;
+}
