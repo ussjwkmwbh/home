@@ -9,7 +9,20 @@ body{
     color: rgb(2,4,7);
 
 }
-.container{
+#root, noscript{
     text-align: center;
     margin-top: 20%;
+    height: 100vh;
+}
+.container{
+    height: 100%;
+
+}
+
+footer{
+    background-color: rgb(65, 65, 65);
+    color:azure;
+}
+a{
+    text-decoration: none;
 }
